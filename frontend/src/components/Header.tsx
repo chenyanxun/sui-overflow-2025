@@ -8,7 +8,7 @@ function Header() {
   return (
     <header className="border-b border-gray-300 flex justify-between items-center h-20">
       <Link href="/">
-        <div className="text-xl font-bold">QiDian on SUI</div>
+        <div className="text-xl font-bold">SUI Novel</div>
       </Link>
       <div className="flex items-center gap-4">
         {currentCount && (
