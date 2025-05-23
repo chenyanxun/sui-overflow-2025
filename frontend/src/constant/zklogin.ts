@@ -1,6 +1,6 @@
 export const GOOGLE_CLIENT_ID =
   "179718222126-s2gr8vord96b0qtgs1mff0mt6a74rsao.apps.googleusercontent.com";
-export const GOOGLE_REDIRECT_URI = "http://127.0.0.1:9000";
+export const GOOGLE_REDIRECT_URI = "https://sui-overflow-2025.vercel.app";
 
 export const ZKLOGIN_KEYPAIR = "ephemeralKeyPair";
 export const ZKLOGIN_MAX_EPOCH = "maxEpoch";

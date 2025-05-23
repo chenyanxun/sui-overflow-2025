@@ -38,7 +38,7 @@ function RegisterEnokiWallets() {
         google: {
           clientId:
             "179718222126-s2gr8vord96b0qtgs1mff0mt6a74rsao.apps.googleusercontent.com",
-          redirectUrl: "http://127.0.0.1:9000",
+          redirectUrl: "https://sui-overflow-2025.vercel.app",
         },
       },
       client,
